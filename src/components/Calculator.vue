@@ -31,8 +31,6 @@ const displayClass = computed(() => {
 const clearDisplay = ()=>{
     display.value = '0'
 }
-
-
 </script>
 <template>
     <div class="calculator">
